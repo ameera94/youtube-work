@@ -4,7 +4,6 @@
 
 body {
     font-family: Roboto, Arial, "sans-serif";
-    
 }
 
 header {
@@ -30,7 +29,6 @@ nav li {
     display: inline-block;
     width: 20%; 
     clear: both;
-        
 }
 
 nav li a {
@@ -39,7 +37,6 @@ nav li a {
     display: inline-block;
     padding: 30px 30px;
     top: 100px;
-    
 }
 
 nav li a:hover {
@@ -51,7 +48,6 @@ nav li a img {
     border-radius: 35%;
     padding: 10px;
     margin: 0 5px;
-
 }
 
 nav li a img:hover {
@@ -73,7 +69,6 @@ nav li a img:hover {
 
 .Media a:hover {
     color: blue;
-
 }
 
 footer {
@@ -83,8 +78,6 @@ footer {
     z-index: 3;
     width: 100%;
     bottom: 0;
- 
-
 }
 
 .bottom {
@@ -94,14 +87,12 @@ footer {
 .bottom a {
     text-decoration: none;
     color: white;
-
 }
 
 banner {
     height: 100px;
     margin-bottom: 400px;
     margin-top: 200px;
-
 }
 
 video {
@@ -109,7 +100,6 @@ video {
     width: 100%;
     height: 50px;
     margin-bottom: 30px;
-  
 }
 
 
